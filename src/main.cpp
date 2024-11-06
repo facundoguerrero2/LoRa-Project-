@@ -10,6 +10,7 @@
 
 BMP280   bmp280;
 
+//Defines
 #define PIN_POWER_SENSOR 4
 
 //variables globales
