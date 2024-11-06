@@ -12,7 +12,7 @@ BMP280   bmp280;
 
 #define PIN_POWER_SENSOR 4
 
-
+//variables globales
 double presion;
 double temperatura;
 double sensor_humedad;
